@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
 from omegaconf import OmegaConf
 
-# Load the Spotify API credentials
+# Load the Spotify API credentials from the YAML file
 spotify_conf = OmegaConf.load('spotify_keys.yaml')
 client_id = spotify_conf.client_id
 client_secret = spotify_conf.client_secret
@@ -19,15 +19,6 @@ def get_artist_id(artist_name):
     artist_id = result['artists']['items'][0]['id']
     return artist_id
 
-def get_album_details(album_id):
-    album = sp.album(album_id)
-    return {
-        'album_name': album['name'],
-        'release_date': album['release_date'],
-        'total_tracks': album['total_tracks']
-    }
-
-
 def get_all_songs(artist_id, artist_name):
     songs = []
     # Get all albums and singles by the artist
@@ -36,7 +27,6 @@ def get_all_songs(artist_id, artist_name):
         # Filter out albums where the artist is not the main artist
         if album['artists'][0]['name'].lower() != artist_name.lower():
             continue
-        album_details = get_album_details(album['id'])
         album_tracks = sp.album_tracks(album['id'])
         for track in album_tracks['items']:
             # Filter out tracks where the artist is not the main artist
@@ -44,14 +34,18 @@ def get_all_songs(artist_id, artist_name):
                 continue
             songs.append({
                 'song_title': track['name'],
-                'album_name': album_details['album_name'],
-                'release_date': album_details['release_date'],
+                'album_name': album['name'],
+                'release_date': album['release_date']
             })
     return songs
 
 def save_to_csv(songs, artist_name):
     # Create a DataFrame from the list of songs
     df = pd.DataFrame(songs)
+    # Convert release_date to datetime for sorting
+    df['release_date'] = pd.to_datetime(df['release_date'])
+    # Sort the DataFrame by release_date in ascending order
+    df = df.sort_values(by='release_date')
     # Save the DataFrame to a CSV file
     df.to_csv(f'{artist_name}_songs.csv', index=False)
 
