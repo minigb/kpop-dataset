@@ -28,14 +28,20 @@ def get_album_details(album_id):
     }
 
 
-def get_all_songs(artist_id):
+def get_all_songs(artist_id, artist_name):
     songs = []
     # Get all albums and singles by the artist
     albums = sp.artist_albums(artist_id, album_type='album,single', limit=50)
     for album in albums['items']:
+        # Filter out albums where the artist is not the main artist
+        if album['artists'][0]['name'].lower() != artist_name.lower():
+            continue
         album_details = get_album_details(album['id'])
         album_tracks = sp.album_tracks(album['id'])
         for track in album_tracks['items']:
+            # Filter out tracks where the artist is not the main artist
+            if track['artists'][0]['name'].lower() != artist_name.lower():
+                continue
             songs.append({
                 'song_title': track['name'],
                 'album_name': album_details['album_name'],
@@ -53,7 +59,7 @@ def main(artist_name):
     # Get the artist ID for the given artist name
     artist_id = get_artist_id(artist_name)
     # Get all songs by the artist
-    songs = get_all_songs(artist_id)
+    songs = get_all_songs(artist_id, artist_name)
     # Save the songs to a CSV file
     save_to_csv(songs, artist_name)
     print(f"Saved {len(songs)} songs to {artist_name}_songs.csv")
