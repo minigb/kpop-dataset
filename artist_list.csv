@@ -1,4 +1,4 @@
-artists,labels,start_year,last_year
+artists,labels,start_date,end_date
 (G)I‐DLE,Cube Entertainment,,
 15&,JYP Entertainment,,
 1TYM,YG Entertainment,,
@@ -8,8 +8,7 @@ artists,labels,start_year,last_year
 2PM,JYP Entertainment,,
 2YOON,Cube Entertainment,,
 45RPM,YG Entertainment,,
-4minute,Cube Entertainment,0,0
-4minute,LOEN Entertainment,0,0
+4minute,Cube Entertainment,,
 5urprise,fantagio music,,
 8TURN,MNH Entertainment,,
 8eight,Source Music,,
@@ -25,8 +24,7 @@ APRIL,DSP Media,,
 ARTMS,MODHAUS,,
 ASTRO,fantagio music,,
 ATEEZ,KQ Entertainment,,
-After School,LOEN Entertainment,0,0
-After School,Pledis Entertainment,0,0
+After School,Pledis Entertainment,,
 Agust D,Big Hit Entertainment,,
 Alice,fantagio music,,
 Amber Liu,SM Entertainment,,
@@ -36,23 +34,21 @@ BABY BLUE,DSP Media,,
 BABYMONSTER,YG Entertainment,,
 BADVILLAIN,BPM Entertainment,,
 BAEKHYUN,SM Entertainment,,
-BANG YEDAM,GF Entertainment,0,0
-BANG YEDAM,YG Entertainment,0,0
-BASTARZ,KQ Entertainment,0,0
-BASTARZ,Seven Seasons,0,0
+BANG YEDAM,GF Entertainment,2022-11-09,
+BANG YEDAM,YG Entertainment,2022-11-08,
+BASTARZ,Seven Seasons,,
 BEAST,Cube Entertainment,,
 BESTie,LOEN Entertainment,,
 BE’O,BPM Entertainment,,
 BIGBANG,YG Entertainment,,
 BLACKPINK,YG Entertainment,,
 BLACKSWAN,LOEN Entertainment,,
-BOBBY,143 Entertainment,0,0
-BOBBY,YG Entertainment,0,0
+BOBBY,143 Entertainment,2022-12-31,
+BOBBY,YG Entertainment,,2022-12-30
 BOY STORY,JYP Entertainment,,
 BOYFRIEND,Starship Entertainment,,
 BOYNEXTDOOR,KOZ Entertainment,,
-BTOB,Cube Entertainment,0,0
-BTOB,LOEN Entertainment,0,0
+BTOB,Cube Entertainment,,2023-11-06
 BTOB - Gold & Silver Axe,Cube Entertainment,,
 BTOB 4U,Cube Entertainment,,
 BTOB-BLUE,Cube Entertainment,,
@@ -61,22 +57,17 @@ BUMZU,Pledis Entertainment,,
 BVNDIT,MNH Entertainment,,
 Bernard Park,JYP Entertainment,,
 Bily Acoustie,fantagio music,,
-Block B,Brand New Stardom,0,0
-Block B,Seven Seasons,0,0
+Block B,Seven Seasons,,
 BoA,SM Entertainment,,
 Brother Su,Starship Entertainment,,
-Brown Eyed Girls,APOP Entertainment,0,0
-Brown Eyed Girls,LOEN Entertainment,0,0
-Brown Eyed Girls,Nega Network,0,0
+Brown Eyed Girls,Nega Network,,
 CHANYEOL,SM Entertainment,,
-CHEN,Jellyfish Entertainment,0,0
-CHEN,SM Entertainment,0,0
-CHUNG HA,MNH Entertainment,0,0
-CHUNG HA,More Vision,0,0
+CHEN,SM Entertainment,,
+CHUNG HA,MNH Entertainment,,2023-04-29
+CHUNG HA,More Vision,2023-04-30,
 CL,YG Entertainment,,
 CLC,Cube Entertainment,,
-CNBLUE,AI Entertainment,0,0
-CNBLUE,FNC Entertainment,0,0
+CNBLUE,FNC Entertainment,,
 CRAVITY,Starship Entertainment,,
 ChAOS,LOEN Entertainment,,
 Cherry Bullet,FNC Entertainment,,
@@ -88,14 +79,12 @@ DAWN,P NATION,,
 DAY6,JYP Entertainment,,
 DAY6 (Even of Day),JYP Entertainment,,
 DINO,Pledis Entertainment,,
-DREAMCATCHER,Dreamcatcher Company,0,0
-DREAMCATCHER,Happy Face Entertainment,0,0
+DREAMCATCHER,Dreamcatcher Company,,
 DRIPPIN,Woollim Entertainment,,
 Dal★Shabet,Happy Face Entertainment,,
 D‐Unit,143 Entertainment,,
 ELKIE,Cube Entertainment,,
-ENHYPEN,BELIFT LAB,0,0
-ENHYPEN,ICONIX,0,0
+ENHYPEN,BELIFT LAB,,
 EVERGLOW,Yuehua Entertainment,,
 EVNNE,Jellyfish Entertainment,,
 EXID,Banana Culture,,
@@ -124,8 +113,8 @@ Golden Child,Woollim Entertainment,,
 Group of 20,LOEN Entertainment,,
 G‐Dragon,YG Entertainment,,
 H.O.T.,SM Entertainment,,
-HA:TFELT,Culture Depot,0,0
-HA:TFELT,JYP Entertainment,0,0
+HA:TFELT,Culture Depot,2017-04-07,
+HA:TFELT,JYP Entertainment,,2017-04-06
 HALO,LOEN Entertainment,,
 HANDONG,Dreamcatcher Company,,
 HELLOVENUS,fantagio music,,
@@ -141,23 +130,20 @@ HWASA,P NATION,,
 HYO,SM Entertainment,,
 HeeJin,MODHAUS,,
 Highlight,Around US Entertainment,,
-Hyolyn,LOEN Entertainment,0,0
-Hyolyn,Starship Entertainment,0,0
-HyunA,Cube Entertainment,0,0
-HyunA,LOEN Entertainment,0,0
-HyunA,P NATION,0,0
+Hyolyn,Starship Entertainment,,2017-06-04
+HyunA,Cube Entertainment,,2018-10-15
+HyunA,P NATION,2019-01-27,2022-08-29
 I.B.I,LOEN Entertainment,,
 I.M,Starship Entertainment,,
 I.O.I,YMC Entertainment,,
 ILLIT,BELIFT LAB,,
 ILUV,ICONIX,,
-INFINITE,Infinite Company,0,0
-INFINITE,Woollim Entertainment,0,0
+INFINITE,Infinite Company,2022-10-08,
+INFINITE,Woollim Entertainment,,2022-10-07
 INFINITE F,Woollim Entertainment,,
 INFINITE H,Woollim Entertainment,,
 ITZY,JYP Entertainment,,
-IU,EDAM Entertainment,0,0
-IU,LOEN Entertainment,0,0
+IU,LOEN Entertainment,,
 IVE,Starship Entertainment,,
 IZ*ONE,OFF THE RECORD Entertainment,,
 JAEHYUN,SM Entertainment,,
@@ -189,10 +175,8 @@ Jung Kook,Big Hit Entertainment,,
 Jus2,JYP Entertainment,,
 KAI,SM Entertainment,,
 KANGDANIEL,Konnect Entertainment,,
-KARA,DSP Media,0,0
-KARA,RBW,0,0
-KARD,DSP Media,0,0
-KARD,LOEN Entertainment,0,0
+KARA,DSP Media,,
+KARD,DSP Media,,
 KASPER,DSP Media,,
 KEY,SM Entertainment,,
 KIHYUN,Starship Entertainment,,
@@ -200,8 +184,7 @@ KISS OF LIFE,S2 Entertainment,,
 KWON EUNBI,Woollim Entertainment,,
 Kei,Woollim Entertainment,,
 Ken,Jellyfish Entertainment,,
-Kep1er,ICONIX,0,0
-Kep1er,WAKEONE,0,0
+Kep1er,WAKEONE,,
 LABOUM,NH Media,0,0
 LABOUM,Nega Network,0,0
 LAY,SM Entertainment,,
@@ -229,16 +212,14 @@ MINO,YG Entertainment,,
 MINX,Happy Face Entertainment,,
 MIRAE,DSP Media,,
 MISAMO,JYP Entertainment,,
-MIYEON,Cube Entertainment,0,0
-MIYEON,Starship Entertainment,0,0
+MIYEON,Cube Entertainment,,
 MOBB,YG Entertainment,,
 MOMOLAND,ICONIX,,
 MONSTA X,Starship Entertainment,,
 MOONBIN & SANHA,fantagio music,,
 Maddox,KQ Entertainment,,
 Masta Wu,YG Entertainment,,
-N.Flying,AI Entertainment,0,0
-N.Flying,FNC Entertainment,0,0
+N.Flying,FNC Entertainment,,
 NARSHA,Nega Network,,
 NAYEON,JYP Entertainment,,
 NCT,SM Entertainment,,
@@ -255,14 +236,13 @@ NU'EST W,Pledis Entertainment,,
 NewJeans,ADOR,,
 Nichkhun,JYP Entertainment,,
 NiziU,JYP Entertainment,,
-ODD EYE CIRCLE,BlockBerry Creative,0,0
-ODD EYE CIRCLE,MODHAUS,0,0
+ODD EYE CIRCLE,BlockBerry Creative,,2023-01-13
+ODD EYE CIRCLE,MODHAUS,2023-03-17,
 OH MY GIRL,ICONIX,,
 OH MY GIRL BANHANA,ICONIX,,
 ONE,YG Entertainment,,
 ONEW,SM Entertainment,,
-Orange Caramel,LOEN Entertainment,0,0
-Orange Caramel,Pledis Entertainment,0,0
+Orange Caramel,Pledis Entertainment,,
 P.O,Seven Seasons,,
 P1Harmony,FNC Entertainment,,
 PENIEL,Cube Entertainment,,
@@ -275,9 +255,9 @@ Pe2ny,Woollim Entertainment,,
 Piggy Dolls,LOEN Entertainment,,
 Play the Siren,DSP Media,,
 QWER,TAMAGO PRODUCTION,,
-RAIN,J,0,0
-RAIN,JYP Entertainment,0,0
-RAIN,R.A.I,0,0
+RAIN,Cube Entertainment,2013-05-28,2019-10-19
+RAIN,JYP Entertainment,,2007-05-11
+RAIN,R.A.I,2020-01-06,
 RAVI,Jellyfish Entertainment,,
 REN,BPM Entertainment,,
 RIIZE,SM Entertainment,,
@@ -288,8 +268,7 @@ Rainbow,DSP Media,0,0
 Rainbow,LOEN Entertainment,0,0
 Rainbow Blaxx,DSP Media,,
 Rainbow Pixie,DSP Media,,
-Red Velvet,SM Entertainment,0,0
-Red Velvet,fantagio music,0,0
+Red Velvet,SM Entertainment,,
 Red Velvet - IRENE & SEULGI,SM Entertainment,,
 Rocket Punch,Woollim Entertainment,,
 S,SM Entertainment,,
@@ -298,27 +277,25 @@ S.E.S.,SM Entertainment,,
 S.M. THE BALLAD,SM Entertainment,,
 S8YN,Dreamcatcher Company,,
 SE7EN,YG Entertainment,,
-SECHSKIES,DSP Media,0,0
-SECHSKIES,YG Entertainment,0,0
+SECHSKIES,DSP Media,1997-04-15,2000-05-18
+SECHSKIES,YG Entertainment,2016-04-14,2024-03-30
 SEMINA,Jellyfish Entertainment,,
 SEOLA,Starship Entertainment,,
 SEULGI,SM Entertainment,,
 SEVENTEEN,Pledis Entertainment,,
 SF9,FNC Entertainment,,
-SHINHWA,Good Entertainment,0,0
-SHINHWA,SM Entertainment,0,0
-SHINHWA,Shinhwa Company,0,0
+SHINHWA,Good Entertainment,2003-05-01,2011-05-03
+SHINHWA,SM Entertainment,,2003-04-30
+SHINHWA,Shinhwa Company,2011-05-04,
 SHINee,SM Entertainment,,
 SISTAR,Starship Entertainment,,
 SISTAR19,Starship Entertainment,,
-SIYEON,Dreamcatcher Company,0,0
-SIYEON,Happy Face Entertainment,0,0
+SIYEON,Dreamcatcher Company,,
 SMTOWN,SM Entertainment,,
 SORN,Cube Entertainment,,
-SOYOU,BPM Entertainment,0,0
-SOYOU,Starship Entertainment,0,0
-SPICA,B2M Entertainment,0,0
-SPICA,LOEN Entertainment,0,0
+SOYOU,BPM Entertainment,2021-09-29,2024-01-31
+SOYOU,Starship Entertainment,,2021-09-08
+SPICA,B2M Entertainment,,
 SPICA.S,B2M Entertainment,,
 SS501,DSP Media,,
 STAYC,High Up Entertainment,,
@@ -342,17 +319,14 @@ Skull,YG Entertainment,,
 Soulights,YMC Entertainment,,
 Starship Planet,Starship Entertainment,,
 Stray Kids,JYP Entertainment,,
-Sunny Hill,B.O.D Entertainment,0,0
-Sunny Hill,For Everyone Media,0,0
-Sunny Hill,LOEN Entertainment,0,0
 SuperM,SM Entertainment,,
 Suzy,JYP Entertainment,,
 Swi.T,YG Entertainment,,
 T.O.P,YG Entertainment,,
-TAEMIN,BPM Entertainment,0,0
-TAEMIN,SM Entertainment,0,0
-TAEYANG,The Black Label,0,0
-TAEYANG,YG Entertainment,0,0
+TAEMIN,BPM Entertainment,2024-04-01,
+TAEMIN,SM Entertainment,,2024-03-31
+TAEYANG,The Black Label,2022-12-27,
+TAEYANG,YG Entertainment,,2022-12-26
 TAEYEON,SM Entertainment,,
 TAEYONG,SM Entertainment,,
 TASTY,Woollim Entertainment,,
@@ -369,8 +343,8 @@ TWICE,JYP Entertainment,,
 TWS,Pledis Entertainment,,
 Tempest,Yuehua Entertainment,,
 TheEastLight.,LOEN Entertainment,,
-Tiffany Young,SM Entertainment,0,0
-Tiffany Young,Transparent Arts,0,0
+Tiffany Young,SM Entertainment,,2017-10-09
+Tiffany Young,Transparent Arts,2019-12-13,
 Toheart,Woollim Entertainment,,
 Triple H,Cube Entertainment,,
 Triple T,SM Entertainment,,
@@ -386,8 +360,7 @@ VERNON,Pledis Entertainment,,
 VIVIZ,BPM Entertainment,,
 VIXX,Jellyfish Entertainment,,
 VIXX LR,Jellyfish Entertainment,,
-WENDY,Jellyfish Entertainment,0,0
-WENDY,SM Entertainment,0,0
+WENDY,SM Entertainment,,
 WINNER,YG Entertainment,,
 WJSN : THE BLACK,Starship Entertainment,,
 WOOZI,Pledis Entertainment,,
@@ -403,26 +376,25 @@ YENA,Yuehua Entertainment,,
 YERI,SM Entertainment,,
 YG Family,YG Entertainment,,
 YMGA,YG Entertainment,,
-YOOHYEON,Dreamcatcher Company,0,0
-YOOHYEON,Happy Face Entertainment,0,0
+YOOHYEON,Dreamcatcher Company,,
 YOUNG POSSE,DSP Media,,
-YUJU,Konnect Entertainment,0,0
-YUJU,Source Music,0,0
+YUJU,Konnect Entertainment,2021-09-01,2024-04-30
+YUJU,Source Music,,2021-05-22
 YUQI,Cube Entertainment,,
 YURI,SM Entertainment,,
 Younique Unit,SM Entertainment,,
 Y틴,Starship Entertainment,,
 ZEROBASEONE,WAKEONE,,
-ZICO,KOZ Entertainment,0,0
-ZICO,Seven Seasons,0,0
+ZICO,KOZ Entertainment,2018-11-26,
+ZICO,Seven Seasons,,2018-11-25
 aespa,SM Entertainment,,
 f(x),SM Entertainment,,
-fromis_9,OFF THE RECORD Entertainment,0,0
-fromis_9,Pledis Entertainment,0,0
+fromis_9,OFF THE RECORD Entertainment,2018-09-21,2021-08-16
+fromis_9,Pledis Entertainment,2021-08-17,
 g.o.d,SidusHQ,,
 gugudan,Jellyfish Entertainment,,
-iKON,143 Entertainment,0,0
-iKON,YG Entertainment,0,0
+iKON,143 Entertainment,2022-12-31,
+iKON,YG Entertainment,,2022-12-30
 j‐hope,Big Hit Entertainment,,
 miss A,JYP Entertainment,,
 myunDo,fantagio music,,
@@ -431,9 +403,9 @@ uBEAT,NH Media,,
 xikers,KQ Entertainment,,
 天上智喜 The Grace,SM Entertainment,,
 威神V,SM Entertainment,,
-가인,APOP Entertainment,0,0
-가인,LOEN Entertainment,0,0
-가인,Nega Network,0,0
+가인,APOP Entertainment,2013-11-26,
+가인,LOEN Entertainment,2011-12-21,2013-11-25
+가인,Nega Network,,2011-12-20
 가희,Pledis Entertainment,,
 간미연,Source Music,,
 강대성,YG Entertainment,,
@@ -452,12 +424,11 @@ xikers,KQ Entertainment,,
 김원필,JYP Entertainment,,
 김재환,WAKEONE,,
 김현중,LOEN Entertainment,,
-남우현,FNC Entertainment,0,0
-남우현,Woollim Entertainment,0,0
+남우현,Woollim Entertainment,,2022-10-07
 남태현,The South,,
 노지훈,Cube Entertainment,,
-니콜,B2M Entertainment,0,0
-니콜,JWK Entertainment,0,0
+니콜,B2M Entertainment,,2022-07-11
+니콜,JWK Entertainment,2022-07-12,
 다나,SM Entertainment,,
 다이아 프로젝트,Happy Face Entertainment,,
 달수빈,Happy Face Entertainment,,
@@ -472,8 +443,8 @@ xikers,KQ Entertainment,,
 류수정,Woollim Entertainment,,
 문문,Starship Entertainment,,
 문희준,SM Entertainment,,
-미료,APOP Entertainment,0,0
-미료,Nega Network,0,0
+미료,APOP Entertainment,2015-10-01,
+미료,Nega Network,,2015-09-30
 민서,APOP Entertainment,,
 민현,Pledis Entertainment,,
 박경,Seven Seasons,,
@@ -495,18 +466,17 @@ xikers,KQ Entertainment,,
 승관,Pledis Entertainment,,
 승리,YG Entertainment,,
 아우라,LOEN Entertainment,,
-양요섭,Around US Entertainment,0,0
-양요섭,Cube Entertainment,0,0
+양요섭,Around US Entertainment,12-09-2016,
+양요섭,Cube Entertainment,,12-08-2016
 엄지,LOEN Entertainment,,
 엔,Jellyfish Entertainment,,
 여고생,DSP Media,,
 예성,SM Entertainment,,
 오구오구,Jellyfish Entertainment,,
 오투원,LOEN Entertainment,,
-용준형,Around US Entertainment,0,0
-용준형,Cube Entertainment,0,0
-우주미키,Starship Entertainment,0,0
-우주미키,fantagio music,0,0
+용준형,Around US Entertainment,12-09-2016,
+용준형,Cube Entertainment,,12-08-2016
+우주미키,Starship Entertainment,,
 우주소녀,Starship Entertainment,,
 우주소녀 쪼꼬미,Starship Entertainment,,
 우진영 & 김현수,Happy Face Entertainment,,
@@ -523,13 +493,12 @@ xikers,KQ Entertainment,,
 윤산하,fantagio music,,
 윤서연,MODHAUS,,
 윤아,SM Entertainment,,
-은지원,GYM Entertainment,0,0
-은지원,YG Entertainment,0,0
+은지원,GYM Entertainment,,2015-06-29
+은지원,YG Entertainment,2016-04-14,
 은혁,SM Entertainment,,
-이기광,Around US Entertainment,0,0
-이기광,Cube Entertainment,0,0
-이달의 소녀,BlockBerry Creative,0,0
-이달의 소녀,LOEN Entertainment,0,0
+이기광,Around US Entertainment,12-09-2016,
+이기광,Cube Entertainment,,12-08-2016
+이달의 소녀,BlockBerry Creative,,
 이달의 소녀 1/3,BlockBerry Creative,,
 이달의 소녀 yyxy,BlockBerry Creative,,
 이무진,BPM Entertainment,,
@@ -539,26 +508,23 @@ xikers,KQ Entertainment,,
 이진솔,SM Entertainment,,
 이창섭,Cube Entertainment,,
 이홍기,FNC Entertainment,,
-이효리,B2M Entertainment,0,0
-이효리,DSP Media,0,0
+이효리,B2M Entertainment,2009-06-30,2014-12-31
+이효리,DSP Media,,2005-12-31
 임현식,Cube Entertainment,,
 장우영,JYP Entertainment,,
 장현승,Cube Entertainment,,
-전지윤,Artsro Entertainment,0,0
-전지윤,JS E&M,0,0
-전지윤,Jenyer Production,0,0
 전진,Good Entertainment,,
 정세운,Starship Entertainment,,
 정용화,FNC Entertainment,,
 정일훈,Cube Entertainment,,
 정진운,JYP Entertainment,,
-제아,APOP Entertainment,0,0
-제아,Nega Network,0,0
+제아,APOP Entertainment,2015-10-01,
+제아,Nega Network,,2015-09-30
 조권,JYP Entertainment,,
 주영,Starship Entertainment,,
 준호,JYP Entertainment,,
-지민,Alomalo Entertainment,0,0
-지민,FNC Entertainment,0,0
+지민,Alomalo Entertainment,2022-07-14,2023-08-18
+지민,FNC Entertainment,,2022-01-12
 지원,FNC Entertainment,,
 지은,YG Entertainment,,
 진,Woollim Entertainment,,
@@ -568,8 +534,7 @@ xikers,KQ Entertainment,,
 채영,JYP Entertainment,,
 천둥,APOP Entertainment,,
 천상지희 다나&선데이,SM Entertainment,,
-초아,FNC Entertainment,0,0
-초아,LOEN Entertainment,0,0
+초아,FNC Entertainment,,2017-12-31
 최강창민,SM Entertainment,,
 최진혁,FNC Entertainment,,
 클로버,GYM Entertainment,,
