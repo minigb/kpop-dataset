@@ -1,4 +1,4 @@
-artists,labels,start_date,end_date
+artists,label,label_start_date,label_end_date
 (G)I‐DLE,Cube Entertainment,,
 15&,JYP Entertainment,,
 1TYM,YG Entertainment,,
@@ -129,7 +129,7 @@ HONEYST,FNC Entertainment,,
 HOSHI,Pledis Entertainment,,
 HOT ISSUE,S2 Entertainment,,
 HUH YUNJIN,Source Music,,
-HWASA,P NATION,2023-07-01
+HWASA,P NATION,2023-07-01,
 HWASA,Rainbow Bridge World,,2023-06-27
 HYO,SM Entertainment,,
 HeeJin,MODHAUS,,
