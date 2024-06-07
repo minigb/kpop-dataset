@@ -54,7 +54,6 @@ Year,Song,Artist,query_idx,channel_artist_same,video_title,video_channel,video_u
 1997,너와 나 You & I,H.O.T.,0,True,너와 나 (you & i),h.o.t. - topic,https://www.youtube.com/watch?v=nvLIgk54HpU
 1997,늑대와 양 Wolf & Sheep,H.O.T.,0,True,늑대와 양 (wolf & sheep),h.o.t. - topic,https://www.youtube.com/watch?v=eVI3VKvbwsQ
 1997,열등감 The end of my inferiority complex,H.O.T.,0,True,열등감 (the end of my inferiority complex),h.o.t. - topic,https://www.youtube.com/watch?v=FPjo2HbgwYg
-1997,행복 Full of happiness,H.O.T.,8,True,h.o.t. - '행복 (full of happiness)' tv가요 20 19970907,from h.o.t.,https://www.youtube.com/watch?v=XnRgG5w_ObY
 1997,For You,SECHSKIES,8,True,sechskies - the 1st mini album 'all for you' jacket mood film,sechskies,https://www.youtube.com/watch?v=iTLCVzJemNM
 1997,Celebrate,JINUSEAN,7,True,서로 (to each other),jinusean - topic,https://www.youtube.com/watch?v=5YzQPzxcCKo
 1997,Dream Comes True,SECHSKIES,0,True,dream comes true (dream comes true),sechskies,https://www.youtube.com/watch?v=Xx7iRExR5xU
@@ -8444,7 +8443,6 @@ Year,Song,Artist,query_idx,channel_artist_same,video_title,video_channel,video_u
 2019,그 사람,IU,0,True,the visitor (그 사람),이지금 [iu official],https://www.youtube.com/watch?v=y5YmTj8KDWM
 2019,니가 더 잘 알잖아 (youknowbetter),Hyolyn,3,False,hyolyn(효린) –《니가 더 잘 알잖아 youknowbetter》 (han/rom/eng) color coded lyrics/가사,mihuan jolin,https://www.youtube.com/watch?v=DgWI1HlBfl8
 2019,Buenos Aires,IZ*ONE,1,True,buenos aires,official iz*one,https://www.youtube.com/watch?v=g6_boQOG6T4
-2019,Blueming,IU,9,True,[iu] 'blueming' 응원법,이지금 [iu official],https://www.youtube.com/watch?v=REcKDqT4uhQ
 2019,Got IT,ILUV,8,True,iluv syren- portable speaker with nfc and bluetooth,iluv creative technology,https://www.youtube.com/watch?v=a1Jbi5h1mi0
 2019,Horizon,I.M,3,False,i.m (아이엠) - horizon (feat. elhae) [가사 한글 해석],호두,https://www.youtube.com/watch?v=UqCGQyaUTRw
 2019,Intro (Through the night),KANGDANIEL,1,True,intro (through the night),kangdaniel - topic,https://www.youtube.com/watch?v=zzcK0gKXO-w
@@ -8461,7 +8459,6 @@ Year,Song,Artist,query_idx,channel_artist_same,video_title,video_channel,video_u
 2019,DESIRE,Jay B,0,True,def. - desire,jay b,https://www.youtube.com/watch?v=K4-aWzBaqvw
 2019,Untitled Love Song,HENRY,2,False,헨리 (henry) - 제목 없는 love song (untitled love song ) lyrics color coded (rom/eng),hansa creative,https://www.youtube.com/watch?v=RAMtvZ_bHx8
 2019,하늘 위로,IZ*ONE,1,True,하늘 위로 up,official iz*one,https://www.youtube.com/watch?v=P1jdwGsV4lk
-2019,비올레타,IZ*ONE,8,True,iz*one (아이즈원) - 비올레타 (violeta) 응원법,official iz*one,https://www.youtube.com/watch?v=eUqDAm1pcM0
 2019,unlucky,IU,0,False,iu unlucky lyrics (아이유 unlucky 가사) [color coded lyrics/han/rom/eng],lemoring,https://www.youtube.com/watch?v=3hrHjHiEfuM
 2019,Love poem,IU,1,True,love poem (love poem),이지금 [iu official],https://www.youtube.com/watch?v=iOKRYIMhaDk
 2019,해바라기,IZ*ONE,2,True,해바라기 hey. bae. like it.,official iz*one,https://www.youtube.com/watch?v=prNNjpvGjCY
@@ -12645,7 +12642,6 @@ Year,Song,Artist,query_idx,channel_artist_same,video_title,video_channel,video_u
 2023,NOBODY,JEON SOYEON,1,True,nobody (nobody),soyeon - topic,https://www.youtube.com/watch?v=xoWZMjx_XJo
 2023,Mortal,ENHYPEN,0,True,mortal,enhypen,https://www.youtube.com/watch?v=HqxXR3K_Dlg
 2023,TROUBLE,EVNNE,6,False,evnne (이븐) 'trouble' official audio,jxs_bp official,https://www.youtube.com/watch?v=q9NujSujN2A
-2023,Karma,ENHYPEN,8,True,enhypen (엔하이픈) ‘karma’ 응원법 - enhypen (엔하이픈),enhypen,https://www.youtube.com/watch?v=XFynUjqow3w
 2023,Face‐off,Jimin,0,True,face-off,jimin - topic,https://www.youtube.com/watch?v=TLT_MqzRHfY
 2023,Cinderella,EXO,0,True,cinderella,exo,https://www.youtube.com/watch?v=94-9A9R4_c4
 2023,Sugar‐holic,ITZY,2,False,itzy (イッチ) - sugar-holic [official audio],welike music&jp music,https://www.youtube.com/watch?v=DAzUTWEtT4I
@@ -14727,7 +14723,6 @@ Year,Song,Artist,query_idx,channel_artist_same,video_title,video_channel,video_u
 2024,그런 밤 (After Sunset),Moon Byul,3,False,moon byul – after sunset (그런 밤) [rom|eng lyric],elydha subs,https://www.youtube.com/watch?v=1U3Cc9hcr9I
 2024,l i f e i s c o o l,BOYNEXTDOOR,1,False,boynextdoor (보이넥스트도어) 'l i f e i s c o o l' lyrics [color coded han_rom_eng] | shadowbyyoongi,shadowbyyoongi,https://www.youtube.com/watch?v=4DtRdJSRIqI
 2024,How Sweet,NewJeans,3,False,newjeans 'how sweet' lyrics (뉴진스 how sweet 가사) (color coded lyrics),jaeguchi,https://www.youtube.com/watch?v=fTt3dbNBH20
-2024,- --- -- --- .-. .-. --- .--,TOMORROW X TOGETHER,3,True,hueningkai wants to start a band - ep.0,tomorrow x together official,https://www.youtube.com/watch?v=PXqY09gEOIs
 2024,Intro : WWUD (What would you do?),Moon Byul,1,False,moonbyul intro: wwud? (what would you do?) lyrics (color coded lyrics),guchimi,https://www.youtube.com/watch?v=APyPA59_Rp0
 2024,DARK ROMANCE,Moon Byul,6,False,moon byul (문별) 'dark romance' official audio,jxs_bp official,https://www.youtube.com/watch?v=7Q0CSqsYdYU
 2024,BODY,Highlight,3,False,하이라이트 (highlight) - body [가사/lyrics],웅키,https://www.youtube.com/watch?v=UWU295-6nCM
@@ -14735,4 +14730,3 @@ Year,Song,Artist,query_idx,channel_artist_same,video_title,video_channel,video_u
 2024,Algorhythm,ITZY,2,False,itzy algorhythm lyrics (color coded lyrics),chaereve,https://www.youtube.com/watch?v=4_-HuCAs1Z4
 2024,GOLD,Moon Byul,6,False,moon byul (문별) 'gold' official audio,jxs_bp official,https://www.youtube.com/watch?v=X3qZupH-toQ
 2024,Stuck in the Middle,BABYMONSTER,8,True,babymonster - ‘stuck in the middle’ (official audio),babymonster,https://www.youtube.com/watch?v=juGETK-mgQE
-2024,Shopper,IU,3,True,iu 'shopper' 응원법🔎 (fanchants guide),이지금 [iu official],https://www.youtube.com/watch?v=FGLQ4PyhrNY
