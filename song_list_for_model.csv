@@ -1,4 +1,4 @@
-title,length,track_artist,release_title,release_artist,release_group_type,country,release_date,label,query_artist,year,is_case_study,small_set
+title,length,track_artist,release_title,release_artist,release_group_type,country,release_date,label,query_artist,year,is_case_study,is_major_label
 Lucas With the Lid Off,,Lucas,Ragga Groove,,,GB,1994,SM Entertainment,LUCAS,1994,False,SM
 ABOUT 女子,203000.0,H.O.T.,We Hate all Kinds of violence...,,,KR,1996-06-05,SM Entertainment,H.O.T.,1996,False,SM
 CANDY,213000.0,H.O.T.,We Hate all Kinds of violence...,,,KR,1996-06-05,SM Entertainment,H.O.T.,1996,False,SM
